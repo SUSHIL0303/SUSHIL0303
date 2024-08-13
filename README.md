@@ -5,7 +5,7 @@
   <img src="https://visitcount.itsvg.in/api?id=SUSHIL0303&label=Profile%20Views&color=12&pretty=false" />
 </a>
 
-- 🌱 I’m currently learning *Java, React Js, Machine Learning*
+- 🌱 I’m currently learning <b>*Java, React Js, Machine Learning*</b>
 
 - 📫 How to reach me *Sushilabish15670@gmail.com*
 
