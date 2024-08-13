@@ -1,7 +1,9 @@
 ![Green And Dark Green Modern Business Linked In Banner](https://github.com/user-attachments/assets/bfc4c0ce-65ac-4cff-b8a3-fce9578266ef)
-[![](https://visitcount.itsvg.in/api?id=SUSHIL0303&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Sushil kumar</h1>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SUSHIL0303&label=Profile%20Views&color=12&pretty=false" />
+</a>
 
 - 🌱 I’m currently learning *JAVA, REACT JS,*
 
