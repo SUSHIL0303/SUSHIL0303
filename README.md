@@ -1,7 +1,6 @@
 ![Green And Dark Green Modern Business Linked In Banner](https://github.com/user-attachments/assets/bfc4c0ce-65ac-4cff-b8a3-fce9578266ef)
 
 <h1 align="center">Hi 👋, I'm Sushil kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning *JAVA, REACT JS,*
 
